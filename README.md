@@ -32,11 +32,15 @@
 
 ## Input:
 
+![exp4input](https://github.com/jesu-smartia05/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/148514819/68deedaf-b27f-4469-bdbd-15c4d7a2c39b)
+
 ### Output:
+### Name:JESU SMARTIA A
+### Register Number:212223110016
+
+![exp4](https://github.com/jesu-smartia05/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/148514819/766aa994-16b4-40ee-8ddc-2568483b7760)
 
 
-### Name:
-### Register Number:
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
